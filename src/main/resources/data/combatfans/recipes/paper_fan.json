@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+    "pattern": [
+    "PPP",
+    "SSP",
+    " SP"
+  ],
+  "key": {
+    "P": { "item": "minecraft:paper" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": { "item": "combatfans:paper_fan", "count": 1 }
+}

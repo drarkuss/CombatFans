@@ -1,0 +1,62 @@
+{
+  "parent": "bettercombat:katana",
+  "attributes": {
+    "attack_range": 3.5,
+    "two_handed": true,
+    "pose": "bettercombat:pose_two_handed_katana",
+    "attacks": [
+      {
+        "angle": 120.0,
+        "animation": "bettercombat:two_handed_slash_horizontal_right",
+        "damage_multiplier": 0.95,
+        "hitbox": "HORIZONTAL_PLANE",
+        "swing_sound": {
+          "id": "bettercombat:claymore_swing",
+          "pitch": 1.0,
+          "randomness": 0.1,
+          "volume": 1.0
+        },
+        "upswing": 0.5
+      },
+      {
+        "angle": 120.0,
+        "animation": "bettercombat:two_handed_slash_vertical_left",
+        "damage_multiplier": 1.05,
+        "hitbox": "VERTICAL_PLANE",
+        "swing_sound": {
+          "id": "bettercombat:claymore_swing",
+          "pitch": 1.0,
+          "randomness": 0.1,
+          "volume": 1.0
+        },
+        "upswing": 0.5
+      },
+      {
+        "angle": 120.0,
+        "animation": "bettercombat:two_handed_slash_vertical_right",
+        "damage_multiplier": 1.05,
+        "hitbox": "VERTICAL_PLANE",
+        "swing_sound": {
+          "id": "bettercombat:claymore_swing",
+          "pitch": 1.0,
+          "randomness": 0.1,
+          "volume": 1.0
+        },
+        "upswing": 0.5
+      },
+      {
+        "angle": 120.0,
+        "animation": "bettercombat:two_handed_slash_horizontal_left",
+        "damage_multiplier": 0.95,
+        "hitbox": "HORIZONTAL_PLANE",
+        "swing_sound": {
+          "id": "bettercombat:claymore_swing",
+          "pitch": 1.0,
+          "randomness": 0.1,
+          "volume": 1.0
+        },
+        "upswing": 0.5
+      }
+    ]
+  }
+}

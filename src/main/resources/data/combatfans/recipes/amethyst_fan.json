@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "AAA",
+    "LAA",
+    " LA"
+  ],
+  "key": {
+    "A": { "item": "minecraft:amethyst_shard" },
+    "L": { "item": "minecraft:lapis_lazuli" }
+  },
+  "result": { "item": "combatfans:amethyst_fan", "count": 1 }
+}

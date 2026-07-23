@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "DDD",
+    "GED",
+    " GD"
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "G": { "item": "minecraft:gold_ingot" },
+    "E": { "item": "minecraft:emerald" }
+  },
+  "result": { "item": "combatfans:diamond_fan", "count": 1 }
+}

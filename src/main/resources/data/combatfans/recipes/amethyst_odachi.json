@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA ",
+    "A  ",
+    "S  "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "S": {
+      "item": "artifex:standard_hilt"
+    }
+  },
+  "result": {
+    "item": "combatfans:amethyst_odachi"
+    }
+}

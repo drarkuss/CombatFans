@@ -1,0 +1,6 @@
+{
+  "parent": "combatfans:item/handheld_long_base",
+  "textures": {
+    "layer0": "combatfans:item/amethyst_odachi"
+  }
+}

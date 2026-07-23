@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "GGG",
+    "SNG",
+    " SG"
+  ],
+  "key": {
+    "G": { "item": "minecraft:gold_ingot" },
+    "S": { "item": "minecraft:stick" },
+    "N": { "item": "minecraft:nether_wart_block" }
+  },
+  "result": { "item": "combatfans:gold_fan", "count": 1 }
+}

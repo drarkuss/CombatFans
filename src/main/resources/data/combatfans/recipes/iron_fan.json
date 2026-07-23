@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "III",
+    "SHI",
+    " SI"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "S": { "item": "minecraft:stick" },
+    "H": { "item": "minecraft:chain" }
+  },
+  "result": { "item": "combatfans:iron_fan", "count": 1 }
+}
